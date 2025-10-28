@@ -1,0 +1,13 @@
+/* Import Google Fonts to approximate the branded typography. */
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;600;700&family=Great+Vibes&family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Tailwind directives for base, components and utilities. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional global styles can go here if needed. */
+html,
+body {
+  scroll-behavior: smooth;
+}
